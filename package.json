@@ -1,8 +1,16 @@
 {
   "name": "@simoneconti/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoneconti/prettier-config.git"
+  },
   "author": "Simone Conti",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoneconti/prettier-config/issues"
+  },
+  "homepage": "https://github.com/simoneconti/prettier-config#readme"
 }
