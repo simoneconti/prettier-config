@@ -1,0 +1,8 @@
+{
+  "name": "@simoneconti/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Simone Conti",
+  "license": "ISC"
+}
